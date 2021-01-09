@@ -21,7 +21,7 @@ Script ini di modifikasi sama saya sendiri Ferdi Ardian.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/FERDIZ-afk/vira_bot
+> git clone https://github.com/ferdboy/impostor
 > cd vira_bot
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
