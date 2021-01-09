@@ -1,5 +1,5 @@
-# 🤖vira bot🤖
-BOT WHATSAPP TERMUX ONLY BY FERDIZ-afk
+# 🤖FERDBot🤖
+BOT WHATSAPP TERMUX ONLY BY FERDI ARDIAN
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -64,6 +64,6 @@ BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Ferza
 
 ## Sosial Media Admin
 
-* [`Instagram Admin`](https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag)
-* [`WhatsApp Admin `](https://wa.me/+6287877173955)
+* [`Instagram Admin`](https://www.instagram.com/ferdi_ardian21?r=nametag)
+* [`WhatsApp Admin `](https://wa.me/+6282169369877)
 
